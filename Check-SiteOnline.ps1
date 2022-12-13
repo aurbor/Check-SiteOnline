@@ -1,6 +1,6 @@
 ## Set the URL for testing below:
 
-$url = "https://myaccount.triton-am.com/chicken"
+$url = "https://www.google.com"
 
 ## Check if using HTTP or HTTPS
 
